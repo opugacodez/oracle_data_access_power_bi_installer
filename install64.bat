@@ -1,5 +1,6 @@
 echo @off
 
+powershell Expand-Archive x64.zip -DestinationPath .\x64
 cd .\x64
 call install.bat odp.net4 c:\oracle64 odp64
 setx /M path "%path%;C:\oracle64"
