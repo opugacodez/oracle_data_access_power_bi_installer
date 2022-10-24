@@ -8,6 +8,6 @@ Oracle Data Access for PowerBI Installer is a quick and easy installer that prov
 You can get the installer cloning this repo using a git command:
 
     git clone "https://github.com/BarrosRichard/oracle_data_access_power_bi_install.git"
-Or through this link [Download ZIP](https://github.com/BarrosRichard/oracle_data_access_power_bi_installer/releases).
+Or through this link [Choose a version](https://github.com/BarrosRichard/oracle_data_access_power_bi_installer/releases).
 After downloading, just run the file `install64.bat`  as Administrator.
 When the installation is done, just restart your PowerBI Desktop and done!
