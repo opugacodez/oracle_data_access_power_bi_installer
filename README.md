@@ -12,7 +12,7 @@ Or through this link [Choose a version](https://github.com/BarrosRichard/oracle_
 After downloading, just run the file `install64.bat`  as Administrator.
 When the installation is done, just restart your PowerBI Desktop and done!
 
-### About the installation process (Step by step)
+### how `install64.bat` bat works (Step by step)
 1. Extract the file `x64.zip`.
 2. Access extracted folder (`x64`).
 3. Execute `install.bat`. This process creates a folder on the disk (`C:\oracle64`).
