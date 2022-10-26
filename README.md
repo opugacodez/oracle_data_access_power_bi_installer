@@ -19,3 +19,7 @@ When the installation is done, just restart your PowerBI Desktop and done!
 4. Set `C:\oracle64` to Windows Path.
 5. Register ODP.NET Unmanaged Client to GAC using ``C:\oracle64\bin\4\OraProvCfg.exe``
 6. Add ODP.NET Unmanaged Client entries to machine.config using ``C:\oracle64\bin\4\OraProvCfg.exe``
+
+### Tested OS's
+1. Windows 10 Enterprise LTSC Version 21H2
+2. Windows Server 2019 Version 1809
