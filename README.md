@@ -24,3 +24,6 @@ When the installation is done, just restart your PowerBI Desktop and done!
 1. Windows 10 Enterprise LTSC Version 21H2
 2. Windows Server 2019 Version 1809
 3. Windows 10 Pro Version 21H1
+
+### References
+1. [Connect to an Oracle database with Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-connect-oracle-database)
