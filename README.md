@@ -4,6 +4,12 @@
 
 Oracle Data Access Client for PowerBI Installer is a quick and easy installer that provides access to Oracle databases for Power BI users. This installer allows you to connect to your Oracle database using the Power BI desktop application. The connection will allow you to query data from your database, as well as create visualizations and reports.
 
+### Features
+
+ - [x] Installer ODAC x64
+ - [ ]  Installer ODAC x86
+ - [ ]  Version Selector
+
 ### How to use
 You can get the installer cloning this repo using a git command:
 
