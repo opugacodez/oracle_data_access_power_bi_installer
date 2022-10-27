@@ -10,8 +10,10 @@ Oracle Data Access Client for PowerBI Installer is a quick and easy installer th
  - [ ]  Installer ODAC x86
  - [ ]  Version Selector
 
+**Important**: The version used in this repository is static at moment (12.2.0.1.0).
+
 ### How to use
-You can get the installer cloning this repo using a git command:
+You can get the installer cloning this repository using a git command:
 
     git clone "https://github.com/BarrosRichard/oracle_data_access_power_bi_install.git"
 Or through this link [Choose a version](https://github.com/BarrosRichard/oracle_data_access_power_bi_installer/releases). 
