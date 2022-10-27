@@ -1,4 +1,4 @@
-# ODAC for PowerBI Installer
+# ODAC for PowerBI Installer (x64 Only)
 
 ### Introduction
 
